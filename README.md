@@ -1,4 +1,4 @@
-# Cross-head Supervision for Crowd Counting with Noisy Annotations
+# FSC
 
 
 ## to run
